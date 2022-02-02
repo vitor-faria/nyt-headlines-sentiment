@@ -2,6 +2,8 @@
 
 > This is my final project of the Automated Media Content Analysis module, as part of the program Mannheim Master in Data Science of the University of Mannheim, during the winter semester of 2021/22.
 
+To see the full code and report, check the **[Python Notebook file](/AMCA_Project_and_Report.ipynb)**.
+
 ## Introduction
 
 With the wide spread of instant messaging apps such as Whatsapp and Telegram, and the frequent restriction of full-article reading by famous journals to subscribers, news' headlines and snippets have become more important in the information sharing dynamic. Headlines are the titles, often in bold and greater size, while snippets are the small text that can be read right below the headlines in instant messaging apps' and social media's pre-visualization. Both texts plus the image that appears when sharing articles are the newspaper's chance of convincing potential readers that the full content is worth a subscription, and are certainly read more frequently than the article's paragraphs.
